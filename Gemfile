@@ -3,7 +3,7 @@
 source 'https://rubygems.org'
 
 gem 'autoprefixer-rails'
-gem 'bootstrap'
+gem 'bootstrap', '>= 4.4.1'
 gem 'commonmarker'
 gem 'rack-host-redirect'
 gem 'sass'
